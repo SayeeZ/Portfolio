@@ -1,2 +1,3 @@
 # Portfolio
-Just revising my development skills, creating this for fun 
+Just revising my development skills.
+Created this repo just to play with HTML5 tags.`
