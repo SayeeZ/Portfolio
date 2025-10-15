@@ -1,2 +1,3 @@
 # Portfolio
-Just revising my development skills, creating this for fun 
+Purpose: Revise HTML5 tags.
+NOTE: No css used.
